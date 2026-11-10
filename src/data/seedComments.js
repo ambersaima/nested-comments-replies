@@ -87,3 +87,21 @@ export const currentUser = {
   handle: '@saimaambar',
   avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=85',
 }
+
+export const users = [
+  {
+    name: 'Rahul Sharma',
+    handle: '@rahulsharma',
+    avatar: 'https://i.pravatar.cc/160?img=12',
+  },
+  {
+    name: 'Priya Patel',
+    handle: '@priyapatel',
+    avatar: 'https://i.pravatar.cc/160?img=47',
+  },
+  {
+    name: 'Arman Khan',
+    handle: '@armankhan',
+    avatar: 'https://i.pravatar.cc/160?img=13',
+  },
+]
